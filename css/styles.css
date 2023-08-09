@@ -145,6 +145,10 @@ text-transform: capitalize;
 .list-team {
 
 }
+.img-team {
+width: 264px;
+height: 260px;
+}
 .taem-name {
 color: var(--navyblue, #2E2F42);
 text-align: center;
@@ -210,7 +214,11 @@ cursor: pointer;
     background-color: #404BBF;
 }
 .img-list {
-
+    text-decoration: none;
+}
+.img {
+width: 360px;
+height: 300px;
 }
 .row-list-headline {
 color: var(--navyblue, #2E2F42);
